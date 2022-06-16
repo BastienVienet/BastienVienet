@@ -1,7 +1,7 @@
 ### Hi there, my name is Bastien Vienet 👋
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/ZeFG00TVXs54Pw4c8e/giphy.gif" width="200"/>
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="100"/>
   <div id="badges">
     <a href="https://www.linkedin.com/in/bastien-vienet-389145203" target=”_blank”>
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -9,10 +9,16 @@
   </div>
   <img src="https://komarev.com/ghpvc/?username=BastienVienet&style=flat-square&color=blue" alt=""/>
 </div>
-<h1>
-  Welcome to my github profile !
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="10px"/>
-</h1>
+
+---
+
+### :man_technologist: About Me :
+I'm a Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Switzerland :switzerland:
+- :construction_worker: I currently work for Jobtrek. I am in my first year of apprenticeship to become the best possible Developer that I could be !
+
+- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
 
 <!--
 **BastienVienet/BastienVienet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
