@@ -1,9 +1,6 @@
 ### Hi there, my name is Bastien Vienet 👋
 
 Welcome to my github profile ! Here is everything that I did and currently do code-wise ! :desktop_computer:
-<div id="header">
-  <img src="https://komarev.com/ghpvc/?username=BastienVienet&style=flat-square&color=blue" alt="Counter of the number of time people have seen my profile !"/>
-</div>
 
 ---
 
@@ -15,17 +12,10 @@ I'm a Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/g
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-BastienVienet-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/bastien-vienet-389145203)
 
-<!--
-**BastienVienet/BastienVienet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### :chart_with_upwards_trend: Some of my stats :
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BastienVienet&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+<img src="https://komarev.com/ghpvc/?username=BastienVienet&style=flat-square&color=blue" alt="Counter of the number of time people have seen my profile !"/>
