@@ -14,7 +14,7 @@ I'm a Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/g
 
 ### :chart_with_upwards_trend: Some of my stats :
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BastienVienet&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BastienVienet&layout=compact&theme=default)](https://github.com/anuraghazra/github-readme-stats)
 
 <img src="https://komarev.com/ghpvc/?username=BastienVienet&style=flat-square&color=blue" alt="Counter of the number of time people have seen my profile !"/>
 
@@ -23,3 +23,4 @@ I'm a Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/g
 ### Contact : 
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/bastien-vienet-389145203)
+[![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bastien.vienet@outlook.com)
