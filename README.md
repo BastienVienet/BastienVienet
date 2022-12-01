@@ -8,7 +8,7 @@ Welcome to my github profile ! Here is everything that I did and currently do co
 I'm a Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"> from Switzerland [:switzerland:]
 - :construction_worker: I currently work for [@Gammadia](https://gammadia.ch/). I am in my second year of apprenticeship to become the best possible Web Developer that I could be
 
-- :zap: In my free time, I mainly hang out with my friends :national_park:, I play Mario Kart :racing_car: and I play chess :chess_pawn: ! 
+- :zap: In my free time, I mainly hang out with my friends :busts_in_silhouette:, I play Mario Kart :racing_car: and I play chess :chess_pawn: ! 
 
 ---
 
