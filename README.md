@@ -2,6 +2,8 @@
 
 Welcome to my github profile ! Here is everything that I did and currently do code-wise ! :desktop_computer:
 
+Important note : My repositories are name with this convention in mind : "section-name-purpose-language". With underscore as separator for names. 
+
 ---
 
 ### :man_technologist: About Me :
