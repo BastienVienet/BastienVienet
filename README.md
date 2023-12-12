@@ -14,7 +14,7 @@ I'm a Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/g
 
 ---
 
-### :chart_with_upwards_trend: Some of my stats :
+### 📊 Some of my stats :
 
 [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=BastienVienet&layout=compact&theme=default)](https://github.com/anuraghazra/github-readme-stats)
 
