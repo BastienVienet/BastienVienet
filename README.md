@@ -8,7 +8,7 @@ Welcome to my github profile ! Here is everything that I did and currently do co
 
 ### 👨‍💻 About Me:
 I'm a Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"> from Switzerland 🇨🇭
-- :construction_worker: I currently work for [@tipee](https://tipee.ch/). I am in my third year of apprenticeship to become the best possible Web Developer that I could be
+- :construction_worker: I currently work for [@tipee](https://tipee.ch/). I am in my fourth (and finally last..) year of apprenticeship to become the best possible Web Developer that I could be
 
 - :zap: In my free time, I mainly hang out with my friends :busts_in_silhouette:, I play Mario Kart :racing_car: and chess :chess_pawn: ! 
 
